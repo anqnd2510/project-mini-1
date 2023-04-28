@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@400;700&display=swap');
+:root{
+  --background-color:#efefef;
+  --color-text: #bbbbbb;
+  --color-font: #f7d9c4;
+  --color-one: #232323;
+  --font:'DM Sans', sans-serif;
+  --color-icon:#ff8484;
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
